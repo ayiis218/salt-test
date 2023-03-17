@@ -1,70 +1,98 @@
-# Getting Started with Create React App
+<!-- PROJECT LOGO -->
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+<div align="center">
 
-## Available Scripts
+<img src="https://i.postimg.cc/yx8pCmKW/icon.png" align="center" width="250" height="auto" />
+  <h1>SALT FE TEST</h1>
+  
+  [![license](https://img.shields.io/github/license/dec0dOS/amazing-github-template.svg?style=flat-square)](LICENSE)
+  </br>
+   <a href="#">View Demo</a>
+  <h2>About The Project</h2>
 
-In the project directory, you can run:
+</div>
 
-### `npm start`
+## Built With
+This app was built with some technologies below:
+- [React JS](https://reactjs.com/)
+- [reactstrap](https://reactstrap.github.io/)
+- [React-Bootstrap](https://react-bootstrap.github.io/)
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+## Installation
+- Clone my repositories
+```
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+```
+- Go to
+```
+cd salt-test
+```
+- Install Module
 
-### `npm test`
+```
+npm install
+```
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+## Screenshoots
 
-### `npm run build`
+<p align="center" display=flex>
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+<table>
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+<tr>
+<td><h4 style="margin-buttom:8px">Register</h4></td>
+<td><h4 style="margin-buttom:8px">Login</h4></td>
+</tr>
+<tr>
+<td><image src="https://i.postimg.cc/QxvNTHb1/register.png" alt="" width=650></td>
+<td><image src="https://i.postimg.cc/FF7pqSF0/loginfood.png" alt="" width=650/></td>
+</tr>
+<tr>
+<td><h4 style="margin-buttom:8px">edit profile</h4></td>
+<td><h4 style="margin-buttom:8px"></h4>List Recipe</td>
+</tr>
+<tr>
+<td><image src="https://i.postimg.cc/Y9p2XF5F/edit-profilefood.png" alt="" width=650></td>
+<td><image src="https://i.postimg.cc/g0zqKXBX/list.png" alt="" width=500/></td>
+</tr>
+<tr>
+<td colspan="2"><h4 style="margin-buttom:8px">Profile</h4></td>
+</tr>
+<tr>
+<td><image src="https://i.postimg.cc/76GDwf2N/profile.png" alt="" width=650/></td>
+<td><image src="https://i.postimg.cc/KcTFW3FG/profile2.png" alt="" width=650/></td>
+</tr>
+<tr>
+<td><h4 style="margin-buttom:8px">create Recipe</h4></td>
+<td><h4 style="margin-buttom:8px">Update Recipe</h4></td>
+</tr>
+<tr>
+<td><image src="https://i.postimg.cc/fR0pBf5v/add.png" alt="" width=650/></td>
+<td><image src="https://i.postimg.cc/qRpFBVrm/update.png" alt="" width=650/></td>
+</tr>
+<tr>
+<td><h4 style="margin-buttom:8px">Detail Recipe</h4></td>
+<td><h4 style="margin-buttom:8px">video Recipe</h4></td>
+</tr>
+<tr>
+<td><image src="https://i.postimg.cc/j2F3hD79/detail.png" alt="" width=650/></td>
+<td><image src="https://i.postimg.cc/d1X2vWQr/video.png" alt="" width=650/></td>
+</tr>
+<tr>
+<td colspan="2"><h4 style="margin-buttom:8px">Landing</h4></td>
+</tr>
+<tr>
+<td><image src="https://i.postimg.cc/vmDjJCRR/landing1.png" alt="" width=650/></td>
+<td><image src="https://i.postimg.cc/9M7kMTFJ/landing2.png" alt="" width=650/></td>
+</tr>
+</table>
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+## Contact
 
-### `npm run eject`
+email : ayiis.218@gmail.com
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+project Link: 
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+## License
+Distributed under the [MIT](/LICENSE) License.
+<p align="right">(<a href="#top">back to top</a>)</p>
