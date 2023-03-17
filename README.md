@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<img src="https://i.postimg.cc/yx8pCmKW/icon.png" align="center" width="250" height="auto" />
+<img src="https://i.postimg.cc/wT4zJtFN/Group-215.png" align="center" width="250" height="auto" />
   <h1>SALT FE TEST</h1>
   
   [![license](https://img.shields.io/github/license/dec0dOS/amazing-github-template.svg?style=flat-square)](LICENSE)
