@@ -38,47 +38,14 @@ npm install
 <p align="center" display=flex>
 
 <table>
-
 <tr>
-<td><image src="https://i.postimg.cc/QxvNTHb1/register.png" alt="" width=650></td>
-<td><image src="https://i.postimg.cc/FF7pqSF0/loginfood.png" alt="" width=650/></td>
+<td><image src="https://i.postimg.cc/rmvX21Lm/mobile.png" alt="" width=250/></td>
+<td><image src="https://i.postimg.cc/bJGc56WW/mobile-1.png" alt="" width=250/></td>
+<td><image src="https://i.postimg.cc/3wxHXrBK/mobile-3.png" alt="" width=250/></td>
+<td><image src="https://i.postimg.cc/htrBQQVy/mobile-4.png" alt="" width=250/></td>
 </tr>
 <tr>
-<td><h4 style="margin-buttom:8px">edit profile</h4></td>
-<td><h4 style="margin-buttom:8px"></h4>List Recipe</td>
-</tr>
-<tr>
-<td><image src="https://i.postimg.cc/Y9p2XF5F/edit-profilefood.png" alt="" width=650></td>
-<td><image src="https://i.postimg.cc/g0zqKXBX/list.png" alt="" width=500/></td>
-</tr>
-<tr>
-<td colspan="2"><h4 style="margin-buttom:8px">Profile</h4></td>
-</tr>
-<tr>
-<td><image src="https://i.postimg.cc/76GDwf2N/profile.png" alt="" width=650/></td>
-<td><image src="https://i.postimg.cc/KcTFW3FG/profile2.png" alt="" width=650/></td>
-</tr>
-<tr>
-<td><h4 style="margin-buttom:8px">create Recipe</h4></td>
-<td><h4 style="margin-buttom:8px">Update Recipe</h4></td>
-</tr>
-<tr>
-<td><image src="https://i.postimg.cc/fR0pBf5v/add.png" alt="" width=650/></td>
-<td><image src="https://i.postimg.cc/qRpFBVrm/update.png" alt="" width=650/></td>
-</tr>
-<tr>
-<td><h4 style="margin-buttom:8px">Detail Recipe</h4></td>
-<td><h4 style="margin-buttom:8px">video Recipe</h4></td>
-</tr>
-<tr>
-<td><image src="https://i.postimg.cc/j2F3hD79/detail.png" alt="" width=650/></td>
-<td><image src="https://i.postimg.cc/d1X2vWQr/video.png" alt="" width=650/></td>
-</tr>
-<tr>
-<td colspan="2"><h4 style="margin-buttom:8px">Landing</h4></td>
-</tr>
-<tr>
-<td><image src="https://i.postimg.cc/wTC83WSn/6951e29a-293f-42a0-9914-fd1657379cdf.png" alt="" width=650/></td>
+<td><image src="https://i.postimg.cc/Hx5HxZz5/6951e29a-293f-42a0-9914-fd1657379cdf.png" alt="" width=200/></td>
 </tr>
 </table>
 
@@ -86,7 +53,7 @@ npm install
 
 email : ayiis.218@gmail.com
 
-project Link: 
+project Link: https://github.com/ayiis218/salt-test
 
 ## License
 Distributed under the [MIT](/LICENSE) License.
