@@ -15,13 +15,14 @@
 ## Built With
 This app was built with some technologies below:
 - [React JS](https://reactjs.com/)
-- [reactstrap](https://reactstrap.github.io/)
+- [Bootstrap](https://reactstrap.github.io/)
 - [React-Bootstrap](https://react-bootstrap.github.io/)
+- [Swiper JS](https://swiperjs.com/)
 
 ## Installation
 - Clone my repositories
 ```
-
+https://github.com/ayiis218/salt-test
 ```
 - Go to
 ```
