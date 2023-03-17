@@ -1,0 +1,38 @@
+.section {
+    background-color: #509FDD;
+    border: 1px solid var(--mainColor);
+    height: 85vh;
+    width: 480px;
+    box-shadow: 0px 0px 5px 0px var(--secondColor);
+ }
+
+ .card {
+    width: 378px;
+    height: 616px;
+    margin: 35px 5% 6% 50px !important;
+    justify-content: center !important;
+ }
+
+ .card h1 {
+    color: #029FE4;
+    font-size: 24px;
+    font-weight: 700;
+    margin: 47px 14px 10px 20px !important;
+    width: 408px;
+ }
+
+ .swip p {
+    text-align: "center" !important;
+ }
+
+ @media (min-width: 765px) {
+   .section {
+      width: 1347px;
+      height: 110vh;
+   }
+
+   .card {
+      margin: 35px 5% 6% 35% !important;
+      justify-content: center !important;
+   }
+ }

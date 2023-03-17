@@ -4,30 +4,24 @@ import ListGroup from "react-bootstrap/ListGroup";
 import Image from "react-bootstrap/Image";
 
 import Company from "../assets/img/comp.svg";
+import style from "../assets/style/footer.module.css";
 
 const Footer = () => {
   return (
-    <>
-      <div
-        style={{ border: "5px", backgroundColor: "#07477A", height: "100vh" }}
-      >
-        <div>
-          <Image
-            style={{ marginLeft: "30px", marginTop: "34px", height: "45px" }}
-            src={Company}
-            alt="company"
-          />
-        </div>
+    <div className={style.section}>
+      <div className={style.img}>
+        <Image style={{ height: "45px" }} src={Company} alt="company" />
+      </div>
 
-        <div className="col-12">
-          {["Light"].map((variant) => (
+      <div className="col-12">
+        {["Light"].map((variant) => (
+          <div className={style.card}>
             <Card
               bg={variant.toLowerCase()}
               key={variant}
               text={variant.toLowerCase() === "light" ? "dark" : "white"}
               style={{
                 marginLeft: "26px",
-                marginTop: "109px",
                 width: "366px",
                 height: "245px",
               }}
@@ -55,12 +49,11 @@ const Footer = () => {
                   <div
                     style={{
                       color: "#25A0D8",
-                      fontFamily: "Rubik",
                       fontSize: "18px",
-                      width: "200px",
+                      width: "300px",
                       height: "91px",
-                      top: "215px",
-                      marginTop: "32px",
+                      top: "205px",
+                      marginTop: "22px",
                       marginLeft: "14px",
                       marginBottom: "53px",
                     }}
@@ -71,53 +64,41 @@ const Footer = () => {
                 </Card.Text>
               </Card.Body>
             </Card>
-          ))}
-        </div>
-        <div>
-          <ListGroup
+          </div>
+        ))}
+      </div>
+      <div className={style.menu}>
+        <ListGroup>
+          <ListGroup.Item
             style={{
-              height: "144px",
-              width: "200px",
-              left: "57px",
-              top: "384px",
-              borderRadius: "0",
-              marginLeft: "6%",
-              marginBottom: "20%",
+              color: "#FFFFFF",
+              backgroundColor: "#07477A",
               borderBlockColor: "#07477A",
-              border: 0,
             }}
           >
-            <ListGroup.Item
-              style={{
-                color: "#FFFFFF",
-                backgroundColor: "#07477A",
-                borderBlockColor: "#07477A",
-              }}
-            >
-              Who We Are
-            </ListGroup.Item>
-            <ListGroup.Item
-              style={{
-                color: "#FFFFFF",
-                backgroundColor: "#07477A",
-                borderBlockColor: "#07477A",
-              }}
-            >
-              Our Values
-            </ListGroup.Item>
-            <ListGroup.Item
-              style={{
-                color: "#FFFFFF",
-                backgroundColor: "#07477A",
-                borderBlockColor: "#07477A",
-              }}
-            >
-              The Perks
-            </ListGroup.Item>
-          </ListGroup>
-        </div>
+            Who We Are
+          </ListGroup.Item>
+          <ListGroup.Item
+            style={{
+              color: "#FFFFFF",
+              backgroundColor: "#07477A",
+              borderBlockColor: "#07477A",
+            }}
+          >
+            Our Values
+          </ListGroup.Item>
+          <ListGroup.Item
+            style={{
+              color: "#FFFFFF",
+              backgroundColor: "#07477A",
+              borderBlockColor: "#07477A",
+            }}
+          >
+            The Perks
+          </ListGroup.Item>
+        </ListGroup>
       </div>
-    </>
+    </div>
   );
 };
 

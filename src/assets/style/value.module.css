@@ -1,0 +1,29 @@
+.section {
+    background-color: var(--mainColor);
+    border: 1px solid var(--mainColor);
+    height: 95vh;
+    width: 480px;
+ }
+
+ .section h1 {
+    color: #029FE4 !important;
+    font-size: 36px !important;
+    margin: 20px 0 34px 0 ;
+ }
+
+ .section p {
+    width: 380px;
+    margin: 0 0 0 50px ;
+ }
+
+ @media (min-width: 765px) {
+   .section {
+      width: 1347px;
+      height: 122vh;
+   }
+
+   .section p {
+      width: 380px;
+      margin: 0 0 0 50px ;
+   }
+ }

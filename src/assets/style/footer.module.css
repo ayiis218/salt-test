@@ -1,0 +1,41 @@
+.section {
+    background-color:#07477A;
+    border: 1px solid var(--secondColor);
+    height: 80vh;
+    width: 480px;
+    box-shadow: 0px 0px 5px 0px var(--secondColor);
+ }
+
+ .img {
+    margin: 35px 0 0 58px;
+ }
+
+ .card {
+    margin : 45px 0 0 26px !important;
+    width: 366px;
+    height: 245px;
+ }
+
+ .menu {
+    margin: 70px 0 0 10% !important;
+    font-size: 20px;
+    color: "#FFFFFF";
+    background-color: "#07477A" !important;
+    border-color: "#07477A";
+ }
+
+ @media (min-width: 765px) {
+   .section {
+      width: 1347px;
+      height: 100vh;
+   }
+
+   .menu {
+      margin: 70px 0 0 4% !important;
+   }
+   .card {
+      margin : 45px 0 0 34% !important;
+      width: 366px;
+      height: 245px;
+   }
+ }
