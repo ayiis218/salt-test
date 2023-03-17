@@ -7,7 +7,7 @@
   
   [![license](https://img.shields.io/github/license/dec0dOS/amazing-github-template.svg?style=flat-square)](LICENSE)
   </br>
-   <a href="#">View Demo</a>
+   <a href="https://salt-fe-company.netlify.app/">View Demo</a>
   <h2>About The Project</h2>
 
 </div>
