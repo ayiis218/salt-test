@@ -40,10 +40,6 @@ npm install
 <table>
 
 <tr>
-<td><h4 style="margin-buttom:8px">Register</h4></td>
-<td><h4 style="margin-buttom:8px">Login</h4></td>
-</tr>
-<tr>
 <td><image src="https://i.postimg.cc/QxvNTHb1/register.png" alt="" width=650></td>
 <td><image src="https://i.postimg.cc/FF7pqSF0/loginfood.png" alt="" width=650/></td>
 </tr>
@@ -82,8 +78,7 @@ npm install
 <td colspan="2"><h4 style="margin-buttom:8px">Landing</h4></td>
 </tr>
 <tr>
-<td><image src="https://i.postimg.cc/vmDjJCRR/landing1.png" alt="" width=650/></td>
-<td><image src="https://i.postimg.cc/9M7kMTFJ/landing2.png" alt="" width=650/></td>
+<td><image src="https://i.postimg.cc/wTC83WSn/6951e29a-293f-42a0-9914-fd1657379cdf.png" alt="" width=650/></td>
 </tr>
 </table>
 
